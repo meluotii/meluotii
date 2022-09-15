@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alena</h1>
+<h1 align="center">Hi 👋, I'm Alyona</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 - 📫 How to reach me **alenayevreiskaya@icloud.com**
